@@ -5,7 +5,7 @@ The files are organized into four folders, each corresponding to a specific topi
 
 ## Contents
 
-- `1_Schrodinger_1D` – Numerical solution of the 1D Schrödinger equation  
-- `2_NonStationary_States` – Simulation of non-stationary quantum states  
-- `3_Band_Theory` – Exercises and scripts related to band theory in solids  
-- `4_Carrier_Statistics` – Analysis and simulation of carrier statistics
+- `Lab_1` – Numerical solution of the 1D Schrödinger equation  
+- `Lab_2` – Simulation of non-stationary quantum states  
+- `Lab_3` – Exercises and scripts related to band theory in solids  
+- `Lab_4` – Analysis and simulation of carrier statistics
